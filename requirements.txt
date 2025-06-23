@@ -1,4 +1,5 @@
 streamlit
-chromadb
 sentence-transformers
 requests
+chromadb==0.4.24
+protobuf==4.25.3
