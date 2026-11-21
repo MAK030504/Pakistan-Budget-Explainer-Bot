@@ -1,7 +1,3 @@
-streamlit
-sentence-transformers
-requests
-chromadb==0.4.24
-protobuf==4.25.3
-numpy==1.23.5
-python-dotenv
+pymupdf>=1.24.0
+scikit-learn>=1.3.0
+pytest>=8.0.0
