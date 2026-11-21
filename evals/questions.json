@@ -1,0 +1,42 @@
+[
+  {
+    "id": "defence-affairs",
+    "question": "What is the budget estimate for Defence Affairs and Services in 2025-26?",
+    "expect_sources": ["annual_budget_25_26.pdf"]
+  },
+  {
+    "id": "solar-panels",
+    "question": "Is the sales tax exemption on import or supply of solar panels withdrawn?",
+    "expect_sources": ["finance_bill_25_26.pdf"]
+  },
+  {
+    "id": "wheat-subsidy",
+    "question": "What wheat subsidies are listed?",
+    "expect_sources": ["budget_brief_25_26.pdf"]
+  },
+  {
+    "id": "bisp",
+    "question": "Where is the Benazir Income Support Programme listed?",
+    "expect_sources": ["budget_brief_25_26.pdf"]
+  },
+  {
+    "id": "pension",
+    "question": "What is the pension amount in current expenditure?",
+    "expect_sources": ["budget_brief_25_26.pdf"]
+  },
+  {
+    "id": "fbr-taxes",
+    "question": "What is the FBR tax revenue?",
+    "expect_sources": ["annual_budget_25_26.pdf"]
+  },
+  {
+    "id": "sbp-profit",
+    "question": "What is the State Bank of Pakistan profit?",
+    "expect_sources": ["receipts_memorandum_25_26.pdf"]
+  },
+  {
+    "id": "markup-payments",
+    "question": "How much is allocated for mark-up payments?",
+    "expect_sources": ["budget_brief_25_26.pdf"]
+  }
+]
